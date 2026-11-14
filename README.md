@@ -68,7 +68,7 @@ Yes: a coding agent that has **local file-system and terminal access** can clone
 
 ```text
 I want to install the open-source Chrome extension in this GitHub repository:
-<PASTE_THE_GITHUB_REPOSITORY_URL_HERE>
+https://github.com/ctlincfaisal/fiverr-last-seen-extension
 
 Please:
 1. Clone or download the exact repository to a permanent local folder on my computer.
@@ -94,7 +94,7 @@ Do not request or store my Fiverr password, session cookies, or tokens.
 ### Optional terminal commands
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL> fiverr-last-seen-extension
+git clone https://github.com/ctlincfaisal/fiverr-last-seen-extension
 cd fiverr-last-seen-extension
 pwd
 ```
